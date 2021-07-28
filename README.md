@@ -1,19 +1,5 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-6255
-Fork on GitHub
-1093
 
-back to edit
 
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
 <h3 align="center">I'm Shubham Singh, a Final year B.Tech Computer Science and Engineering Undergrad at VIT-Chennai. I'm a Web developer.</h3>
 
